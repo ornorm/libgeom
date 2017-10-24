@@ -1,0 +1,46 @@
+{
+  "name": "libgeom",
+  "version": "1.0.0",
+  "description": "Geometrical classes that can be used with HTML canvas",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ornorm/libgeom.git"
+  },
+  "keywords": [
+    "Arc",
+    "Dimension",
+    "Ellipse",
+    "Insets",
+    "PathIterator",
+    "Iterator",
+    "CopyIterator",
+    "TxIterator",
+    "FlatteningPathIterator",
+    "Line",
+    "AffineTransform",
+    "Point",
+    "QuadCurve",
+    "RectIterator",
+    "Rectangle",
+    "RoundRectangle",
+    "Shape",
+    "Path",
+    "GeneralPath"
+  ],
+  "author": "Aime Biendo <abiendo@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ornorm/libgeom/issues"
+  },
+  "homepage": "https://github.com/ornorm/libgeom#readme",
+  "dependencies": {
+    "hjs-core": "^1.0.3"
+  }
+}
